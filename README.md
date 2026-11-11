@@ -1,15 +1,3 @@
-############################################
-WORKER INFO – DO NOT COPY THIS PART
-############################################
-
-Repository name: documents-societe-hong-kong
-Description: Liste des documents nécessaires pour créer une société à Hong Kong
-Topics: documents, kyc, hong-kong, company-registration, incorporation
-
-############################################
-README TEXT – COPY EVERYTHING BELOW THIS LINE
-############################################
-
 Documents nécessaires pour créer une société à Hong Kong
 
 Voici la liste complète des documents à préparer pour créer une société à Hong Kong, ouvrir le compte bancaire et tenir la société à jour. Préparer ces documents à l'avance fait gagner plusieurs jours. Pour un dossier vérifié par un professionnel : societehongkong.com (https://societehongkong.com/).
